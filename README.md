@@ -3,9 +3,9 @@
 >
 > OS name is not always correct
 > 
-> Saves datas to credentials.txt
+> Saves data to credentials.txt
 > 
-> Sends datas to discord webhook
+> Sends data to discord webhook
 >
 
 ![Screenshot 2024-03-10 215017](https://github.com/Bt08s/Growtopia-Phisher/assets/68190921/53897f1a-cc53-4394-9c5e-381ee8208939)
