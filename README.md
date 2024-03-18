@@ -1,5 +1,5 @@
 > [!NOTE]
-> Data = GrowID, password, ip, os+version, browser+version, language
+> Data = GrowID, Password, IP, OS+version, browser+version, language
 >
 > OS name is not always correct
 > 
